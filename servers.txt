@@ -3,7 +3,7 @@
 #profile-update-interval: 12
 #profile-lock: true
 #profile-encrypt: true
-#profile-web-url: https://bummy.top
-#profile-tg-url: https://t.me/bummyvpn
+#profile-web-url: https://bummy.ru
+#profile-tg-url: https://t.me/bummychannel
 
 vless://c9486368-0f4a-4317-9fbb-d87ae4c45ccd@pro-ru-5.emrata.top:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA+Russia
