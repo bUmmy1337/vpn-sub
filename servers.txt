@@ -1,5 +1,9 @@
-#profile-title: BummyVPN 🚀
+#profile-title: 🤍 Белые списки • BummyVPN
+#profile-notice: 🛸 Ближайшие сервера к вам: 🇷🇺
 #profile-update-interval: 12
-#profile-icon: https://cdn-icons-png.flaticon.com/512/3135/3135715.png
+#profile-lock: true
+#profile-encrypt: true
+#profile-web-url: https://bummy.top
+#profile-tg-url: https://t.me/bummyvpn
 
 vless://c9486368-0f4a-4317-9fbb-d87ae4c45ccd@pro-ru-5.emrata.top:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA+Russia
