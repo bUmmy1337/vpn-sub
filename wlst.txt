@@ -1,4 +1,4 @@
-#profile-title: 🤍 Белые списки
+#profile-title: 🥟 Белые списки 🥟
 #profile-notice: 🛸 t.me/bummychannel
 #profile-update-interval: 1
 #profile-lock: true
@@ -6,6 +6,8 @@
 #profile-web-url: https://bummy.ru
 #profile-tg-url: https://t.me/bummychannel
 vless://a1f2648c-35be-4f3d-876a-776eb9df1fc4@178.72.168.76:443?security=reality&encryption=none&pbk=7TvkMzoB3gEZy-5HfL6-M_AT_qWVgyeoiggDb2Qg5hE&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#%F0%9F%87%A9%F0%9F%87%AA+Германия
-vless://c9486368-0f4a-4317-9fbb-d87ae4c45ccd@pro-ru-109.emrata.top:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA+Россия+🎮
+vless://7ae12965-e94f-4920-a492-29a6ba71831d@90.156.214.75:443?security=reality&encryption=none&pbk=vgKCDxOlThCeLG5I6e_n9o7EG7zAcXboGsF-n2qpqW4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=market.yandex.ru&sid=a884d25331a095#%F0%9F%87%AD%F0%9F%87%BA+Венгрия
 vless://c23f79ce-da6b-4651-a0a0-d34010b8f046@178.154.197.243:443?security=reality&encryption=none&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=27e53bbcab7593d7#%F0%9F%87%B3%F0%9F%87%B1+Нидерланды
-vless://10d8a405-abcb-418d-bb53-f996c5a2ea12@95.163.209.155:443?security=reality&encryption=none&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ccad786414bbb5#%F0%9F%87%AB%F0%9F%87%B7+Франция+📱+TikTok
+vless://10d8a405-abcb-418d-bb53-f996c5a2ea12@95.163.209.155:443?security=reality&encryption=none&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ccad786414bbb5#%F0%9F%87%AB%F0%9F%87%B7+Франция
+vless://8e52a1d9-fc95-482a-b3f4-99625b7b668d@51.250.1.150:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#%F0%9F%87%B1%F0%9F%87%BB+Латвия+🎮
+vless://09e55dd6-8c20-30ba-b552-69767c94f37e@158.160.156.195:443?security=reality&encryption=none&pbk=EjDAIpfuMZqUdNonEIrDd_rz57sN6TxrspXWqgfqWFk&headerType=none&fp=firefox&allowinsecure=0&type=tcp&sni=google.com&sid=c834#%F0%9F%87%B7%F0%9F%87%BA+Россия+⚡️
