@@ -1,6 +1,6 @@
 #profile-title: 🤍 Белые списки
 #profile-notice: 🛸 t.me/bummychannel
-#profile-update-interval: 12
+#profile-update-interval: 1
 #profile-lock: true
 #profile-encrypt: true
 #profile-web-url: https://bummy.ru
