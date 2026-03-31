@@ -5,9 +5,8 @@
 #profile-encrypt: true
 #profile-web-url: https://bummy.ru
 #profile-tg-url: https://t.me/bummychannel
-
+vless://9ed5cbb5-6141-4060-8652-b1a10f067547@84.201.159.219:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=428ef87fd47a3a32#%F0%9F%8C%90+Anycast
+vless://bb5437cd-3a6c-4509-9d91-fbf40d5f36bb@151.236.114.193:6443?security=reality&encryption=none&pbk=pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=max.ru&sid=f3e8b2b1#%F0%9F%87%AB%F0%9F%87%B7+Франция+Boost+⚡️
 vless://c9486368-0f4a-4317-9fbb-d87ae4c45ccd@pro-ru-5.emrata.top:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA+Россия
-vless://5b77fb18-cece-4759-9a81-571f1be53e0c@shop.enigmabot.ru:443?security=reality&encryption=none&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=299d62#%F0%9F%87%AB%F0%9F%87%B7+Франция
 vless://6d6fa10a-0bd1-4164-b368-b587172263b4@217.16.29.168:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=analytics.vk.ru&sid=deadbeefcafebaab#%F0%9F%87%A9%F0%9F%87%AA+Германия+⚡️
-vless://1fabb370-dac5-47cd-a2cb-f8e82ed9223b@212.233.121.192:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=_1Vo7MoIcb8M1u2e7BkXRQx52-ls3mnMqzTs-TrOjg0&fp=chrome&allowinsecure=0&type=xhttp&sni=www.vk.com&sid=287d#%F0%9F%87%BA%F0%9F%87%B8+США+|+Antigravity
-vless://6e79f6aa-42da-0014-bbb6-8bc0c0ff5d5c@109.120.181.41:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%F0%9F%87%B3%F0%9F%87%B1+Нидерланды+%F0%9F%8C%90+IPv6
+vless://2bf53570-feda-4b8e-bc4e-f28d34606308@146.185.240.3:8444?mode=multi&security=reality&encryption=none&authority=&pbk=fpIkP38L3xwAb8oTT4qaLm7GmE0JWgjjTjxCj8Kdhjs&allowinsecure=0&type=grpc&serviceName=GG&sni=max.ru#%F0%9F%87%BA%F0%9F%87%B8+США+|+Antigravity
