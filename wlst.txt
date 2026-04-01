@@ -5,6 +5,10 @@
 #profile-encrypt: true
 #profile-web-url: https://bummy.ru
 #profile-tg-url: https://t.me/bummychannel
+vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.182.221:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=sso.passport.yandex.ru&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%20🔽+Хайповые+сервера+🔽
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@50.62.88.16:443#%F0%9F%8C%90+Anycast-IP+%7C+%5BIPv6%5D+%7C+%5BBL%5D
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@199.181.197.38:443#%F0%9F%8C%90+Anycast-IP+%7C+%5BIPv6%5D+%7C+%5BBL%5D
+hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com:443?security=tls&mportHopInt=30&mport=40-t7t5pe-1s0a7.hk1.hyhuawei.com&allowinsecure=1&sni=9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong%2C+Central+%7C+%5BBL%5D
 vless://00809346-b95e-4d4d-8a50-0c82bb75c0ce@212.233.120.4:443?mode=auto&path=%2Fapi%2Fv2%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=random&allowinsecure=0&type=xhttp&sni=bonus00-01.uiu.fyi#%F0%9F%87%B8%F0%9F%87%AA+Швеция+|+Резервный
 vless://b9db7f21-a39d-4dd5-a84b-2926f938aae6@213.176.94.62:8443?encryption=none&security=reality&flow=xtls-rprx-vision&sni=google.com&fp=chrome&pbk=B6NvyGr0mVQnRUD4FkL2HDPEGhAljFkVQf4i6Z_mDBs&sid=e1f67dea7ca36122#🇦🇹+Австрия+|+Без обхода
 vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.182.221:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=sso.passport.yandex.ru&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%20🔽+Российские+сервера+🔽
