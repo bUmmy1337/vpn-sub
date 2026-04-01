@@ -1,4 +1,4 @@
-#profile-title: 🥟 BummyWhitelist 🥟
+#profile-title: 🥟 Bummy Whitelist 🥟
 #profile-notice: 🛸 t.me/bummychannel
 #profile-update-interval: 1
 #profile-lock: true
